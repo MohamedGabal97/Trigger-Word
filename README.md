@@ -1,0 +1,2 @@
+# Trigger-Word
+Speech regonition
